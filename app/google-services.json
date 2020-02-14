@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76291742959",
+    "firebase_url": "https://coronamapboard.firebaseio.com",
+    "project_id": "coronamapboard",
+    "storage_bucket": "coronamapboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76291742959:android:ce4d6f112c16884d24cf1a",
+        "android_client_info": {
+          "package_name": "com.ironelder.coronamap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76291742959-jmlphbat9vc3t975asof4l1l8ce9ltij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ironelder.coronamap",
+            "certificate_hash": "e33edd47f944429bee8a87abd9501a1cd03a366e"
+          }
+        },
+        {
+          "client_id": "76291742959-sfe4l4nm5qq46l02qip008k7gfo231df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmr44mmPn6Jm-7PT7B3XU4D6lVAxGU8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76291742959-sfe4l4nm5qq46l02qip008k7gfo231df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
