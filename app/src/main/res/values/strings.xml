@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">CoronaMap</string>
+    <string name="corona_board_subtitle_case">감염</string>
+    <string name="corona_board_subtitle_death">사망</string>
+    <string name="corona_board_subtitle_recovered">치료</string>
     <string name="ABW">아루바</string>
     <string name="AFG">아프가니스탄</string>
     <string name="AGO">앙골라</string>
@@ -14,7 +17,7 @@
     <string name="ATA">남극</string>
     <string name="ATF">프랑스령 남방 및 남극</string>
     <string name="ATG">앤티가 바부다</string>
-    <string name="AUS">오스트레일리아</string>
+    <string name="AUS">호주</string>
     <string name="AUT">오스트리아</string>
     <string name="AZE">아제르바이잔</string>
     <string name="BDI">부룬디</string>
@@ -227,7 +230,7 @@
     <string name="TUN">튀니지</string>
     <string name="TUR">터키</string>
     <string name="TUV">투발루</string>
-    <string name="TWN">타이완</string>
+    <string name="TWN">대만</string>
     <string name="TZA">탄자니아</string>
     <string name="UGA">우간다</string>
     <string name="UKR">우크라이나</string>
@@ -248,4 +251,7 @@
     <string name="ZAF">남아프리카 공화국</string>
     <string name="ZMB">잠비아</string>
     <string name="ZWE">짐바브웨</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
